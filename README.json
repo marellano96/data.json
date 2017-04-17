@@ -1,0 +1,147 @@
+{
+"capitales": [{
+"nombre": "Quito",
+"provincia": "Pichincha",
+"longitud": -78.509722,
+"latitud": -0.218611,
+"Ranking_Poblacional": 2
+}, {
+"nombre": "Guayaquil",
+"provincia": "Guayas",
+"longitud": -79.883333,
+"latitud": -2.183333,
+"Ranking_Poblacional": 1
+}, {
+"nombre": "Santo Domingo",
+"provincia": "Santo Domingo de los Tsáchilas",
+"longitud": -79.171944,
+"latitud": -0.254167,
+"Ranking_Poblacional": 11
+}, {
+"nombre": "Machala",
+"provincia": "El Oro",
+"longitud": -79.966667,
+"latitud": -3.266667,
+"Ranking_Poblacional": 6
+}, {
+"nombre": "Portoviejo",
+"provincia": "Manabí",
+"longitud": -80.454444,
+"latitud": -1.054444,
+"Ranking_Poblacional": 3
+}, {
+"nombre": "Loja",
+"provincia": "Loja",
+"longitud": -79.205,
+"latitud": -3.990556,
+"Ranking_Poblacional": 10
+}, {
+"nombre": "Ambato",
+"provincia": "Tungurahua",
+"longitud": -78.619722,
+"latitud": -1.241667,
+"Ranking_Poblacional": 7
+}, {
+"nombre": "Esmeraldas",
+"provincia": "Esmeraldas",
+"longitud": -79.666667,
+"latitud": 0.95,
+"Ranking_Poblacional": 8
+}, {
+"nombre": "Riobamba",
+"provincia": "Chimborazo",
+"longitud": -78.648294,
+"latitud": -1.674347,
+"Ranking_Poblacional": 9
+}, {
+"nombre": "Ibarra",
+"provincia": "Imbabura",
+"longitud": -78.13,
+"latitud": 0.362778,
+"Ranking_Poblacional": 13
+}, {
+"nombre": "Babahoyo",
+"provincia": "Los Ríos",
+"longitud": -79.516667,
+"latitud": -1.816667,
+"Ranking_Poblacional": 4
+}, {
+"nombre": "Latacunga",
+"provincia": "Cotopaxi",
+"longitud": -78.616667,
+"latitud": -0.933333,
+"Ranking_Poblacional": 12
+}, {
+"nombre": "Tulcán",
+"provincia": "Carchi",
+"longitud": -77.718611,
+"latitud": 0.811667,
+"Ranking_Poblacional": 18
+}, {
+"nombre": "Nueva Loja",
+"provincia": "Sucumbíos",
+"longitud": -77.150556,
+"latitud": -0.059444,
+"Ranking_Poblacional": 17
+}, {
+"nombre": "Francisco de Orellana",
+"provincia": "Orellana",
+"longitud": -76.984167,
+"latitud": -0.4625,
+"Ranking_Poblacional": 20
+}, {
+"nombre": "Santa Elena",
+"provincia": "Santa Elena",
+"longitud": -80.8583,
+"latitud": -2.2267,
+"Ranking_Poblacional": 14
+}, {
+"nombre": "Azogues",
+"provincia": "Cañar",
+"longitud": -78.833333,
+"latitud": -2.733333,
+"Ranking_Poblacional": 15
+}, {
+"nombre": "Puyo",
+"provincia": "Pastaza",
+"longitud": -78.001111,
+"latitud": -1.066667,
+"Ranking_Poblacional": 23
+}, {
+"nombre": "Guaranda",
+"provincia": "Bolívar",
+"longitud": -79.003056,
+"latitud": -1.605556,
+"Ranking_Poblacional": 16
+}, {
+"nombre": "Tena",
+"provincia": "Napo",
+"longitud": -77.8159,
+"latitud": -0.989,
+"Ranking_Poblacional": 21
+}, {
+"nombre": "Macas",
+"provincia": "Morona Santiago",
+"longitud": -78.116667,
+"latitud": -2.3,
+"Ranking_Poblacional": 19
+}, {
+"nombre": "Zamora",
+"provincia": "Zamora Chinchipe",
+"longitud": -78.956667,
+"latitud": -4.069167,
+"Ranking_Poblacional": 22
+}, {
+"nombre": "Puerto Baquerizo Moreno",
+"provincia": "Galápagos",
+"longitud": -89.609167,
+"latitud": -0.9025,
+"Ranking_Poblacional": 24
+}, {
+"nombre": "Cuenca",
+"provincia": "Azuay",
+"longitud": -79.00453,
+"latitud": -2.90055,
+"Ranking_Poblacional": 5
+}]
+}
